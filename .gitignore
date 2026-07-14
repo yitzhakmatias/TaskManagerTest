@@ -1,0 +1,15 @@
+# IDE
+.idea/
+.vs/
+*.suo
+*.user
+
+# Stray agent-tooling artifacts
+.claude/
+
+# Local-only project instructions, not for the public repo
+CLAUDE.md
+
+# OS
+.DS_Store
+Thumbs.db
